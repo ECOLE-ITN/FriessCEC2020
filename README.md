@@ -28,7 +28,7 @@ The following sections elaborate on how to replicate the steps and experiments p
 
 ## Running Experiments
 
-Please mail s.friess(AT)bham.ac.uk and ask for password to access preliminary files. 
+Please mail s.friess(AT)bham.ac.uk and ask for password to access to zip file. 
 
 ## How to Cite
 

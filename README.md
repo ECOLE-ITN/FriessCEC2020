@@ -24,7 +24,11 @@ All required libraries can be installed by executing `pip install -r requirement
 | GPyOpt      | Library for hyperparameter tuning. | 
 | Scikit-Learn       | Implements the k-Means clustering.  |
 
-The following sections elaborate on how to replicate the steps and experiments presented within our paper. 
+The following sections elaborate on how to replicate the steps and experiments presented within our paper.
+
+## Running Experiments
+
+Please mail s.friess(AT)bham.ac.uk and ask for password to access preliminary files. 
 
 ## How to Cite
 

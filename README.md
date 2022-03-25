@@ -7,7 +7,6 @@ Contains code to replicate studies for structure incorporation of continuous opt
 The code we provide within our repository is derivative of our paper nomination [Representing Experience in Continuous Evolutionary Optimisation through Problem-tailored Search Operators](https://ieeexplore.ieee.org/document/9185687) (Friess, Tiňo, Menzel, Sendhoff & Yao, 2020) at IEEE CEC 2020. It can also be used to replicate the experiments of our papers submitted to SSCI 2019 and PPSN 2020. However, we caution that the proposed self-adpation mechanism in the latter publication is erroneous. 
 
 The code is implemented in Python 3.0 and the required libraries are elaborated in the following up technical requirements part. 
-(Describe repository structure)
 
 In the following, we will give a more in-depth description on the technical requirements and how to use our scripts accordingly.
 
@@ -22,13 +21,9 @@ All required libraries can be installed by executing `pip install -r requirement
 | ------------- |:-------------|
 | DEAP        | Provides different implementations of EAs. |
 | GPyOpt      | Library for hyperparameter tuning. | 
-| Scikit-Learn       | Implements the k-Means clustering.  |
+| Scikit-Learn       | Implements the GMMs.  |
 
 The following sections elaborate on how to replicate the steps and experiments presented within our paper.
-
-## Running Experiments
-
-Please mail s.friess(AT)bham.ac.uk and ask for password to access to zip file. 
 
 ## How to Cite
 
